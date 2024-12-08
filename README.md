@@ -1,6 +1,6 @@
 Frontend and backend code to demonstrate communication with API and different databases (SQL, Prisma, MongoDB)
 
-Create a .env file to provide that databases URLs to the backends.
+Create a .env file to provide the databases URLs to the backends.
 Current .env file:
 ```
 PRISMA_DATABASE_URL="postgresql://jakub:@localhost:5432/test?schema=public"
